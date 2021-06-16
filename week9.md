@@ -1,0 +1,1 @@
+複習微分觀念 geadient gd
