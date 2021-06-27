@@ -8,8 +8,7 @@
    * 典型的CNN作法是多層卷積/池化後，萃取特徵當作 Input，再接至一到多個完全連接層，進行分類。
 ![image](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-07-at-4-59-29-pm.png?w=748)
 [圖片來源](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
-<br>
-<br>
+
    * 卷積層
       * input 5x5 image的輸出成3x3的特徵的過程
      ![image](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
