@@ -11,7 +11,7 @@
 
    * 卷積層
       * input 5x5 image的輸出成3x3的特徵的過程
-     ![image](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
+      * ![image](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
      [圖片來源GIPHY 是一個無版權的素材網站](https://giphy.com/gifs/blog-daniel-keypoints-i4NjAwytgIRDW?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
    * 池化層
       * 類似卷積層的取樣方法，不過不是權值加總，通常是取最大值(Max-Polling) 
