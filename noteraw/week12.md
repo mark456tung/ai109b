@@ -1,3 +1,4 @@
+# Week12
 * 語言處理 10lang rule e2c 03gen
 * 04 gen_math 
 * 04b textgen

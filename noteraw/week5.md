@@ -1,3 +1,4 @@
+# Week5
 * permutation  truethable queen
    * 老師建議 先把前兩個搞懂 會比較容易懂queen
 * 八皇后

@@ -1,4 +1,5 @@
-04logic kb
+# Week10
+* 04logic kb
 * prolog
    * 邏輯編程
    * 最基本的寫法是定義物件與物件之間的關係

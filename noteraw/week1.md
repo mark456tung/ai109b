@@ -1,4 +1,4 @@
-# week1
+# Week1
 * 這門課基本上會使用現成的模型(因為算力不夠)
 * 使用python + PyTorch(學術界偏好)
 * python 會用到Numpy Scipy mataplot pandas

@@ -1,3 +1,4 @@
+# Week15
 * Colab
    * google的一款產品
    * pros
@@ -8,5 +9,5 @@
       * 要有穩定的網路
       * 判定閒置的話會被關掉
       * 有時間限制(畢竟免費阿)
-* RNN LSTM One-hot Encoding
-   * https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html
+* [RNN LSTM One-hot Encoding](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html)
+ 

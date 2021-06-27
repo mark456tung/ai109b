@@ -1,4 +1,4 @@
-# 20210624第十八週
+# Week18
 ## 鍾誠老師上課教材
 * [程式人媒體_人工智慧](https://programmermedia.org/root/%E7%A8%8B%E5%BC%8F%E4%BA%BA%E5%AA%92%E9%AB%94/)
 ## 台大人工智慧學習連結
