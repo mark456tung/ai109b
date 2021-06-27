@@ -326,4 +326,4 @@ type complex
 * [《动手学深度学习》](https://github.com/MingchaoZhu/DeepLearning)
 * [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
 
- 
+ [License](https://github.com/mark456tung/ai109b/blob/main/LICENSE.md)

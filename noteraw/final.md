@@ -58,3 +58,4 @@
 * https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E6%95%B4%E6%B5%81%E5%87%BD%E6%95%B0
 
 # 本專案僅供學習，圖片.code來源皆有附上
+[License](https://github.com/mark456tung/ai109b/blob/main/LICENSE.md)
