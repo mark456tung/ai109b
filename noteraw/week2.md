@@ -1,2 +1,14 @@
 # week2
-講解演算法hillclimbing1 hillclimbing2
+* 講解演算法hillclimbing1 hillclimbing2
+ * 往高處爬，只要旁邊比較高，就移動到旁邊
+ * 只能找到局部最佳解(可能旁邊低，但是旁邊的旁邊更高)，找不到全域最佳解
+* 模擬退火法
+```
+Algorithm SimulatedAnnealing(s)
+  while (溫度還不夠低，或還可以找到比 s 更好的解 s' 的時候)
+    根據能量差與溫度，用機率的方式決定是否要移動到新解 s'。
+    # (機率：溫度高時可以往上走，溫度低的時候差不多只能往下走)
+    將溫度降低一些
+  end
+end
+```

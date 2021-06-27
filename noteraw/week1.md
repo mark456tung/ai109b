@@ -1,7 +1,7 @@
 # week1
-這門課基本上會使用現成的模型(因為算力不夠)
-使用python + PyTorch(學術界偏好)
-python 會用到Numpy Scipy mataplot pandas
+* 這門課基本上會使用現成的模型(因為算力不夠)
+* 使用python + PyTorch(學術界偏好)
+* python 會用到Numpy Scipy mataplot pandas
 ## 人工智慧
 * 傳統
    * 搜尋(解空間搜尋) + 優化
