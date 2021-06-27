@@ -48,3 +48,13 @@
   * 是一種用來增加資料集的方法
   * 放大縮小旋轉顛倒，明亮度調整，故意加入噪音等等
  
+# 參考網站
+* https://ithelp.ithome.com.tw/articles/10191820 
+* https://medium.com/ching-i/%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1-convolutional-neural-network-cnn-d7246d24ff3e
+* https://blog.csdn.net/weixin_38668159/article/details/80415626 
+* https://blog.csdn.net/C_chuxin/article/details/88581411
+* https://www.cnblogs.com/hutao722/p/10008581.html
+* http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html
+* https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E6%95%B4%E6%B5%81%E5%87%BD%E6%95%B0
+
+# 本專案僅供學習，圖片.code來源皆有附上

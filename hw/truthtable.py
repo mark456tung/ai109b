@@ -20,7 +20,7 @@ truthtable(3)
 
 ''' 
 以truthtable(3)為例
-程式先call truthtane(3)
+程式先call truthtable(3)
 此時n=3 p=[] 傳入 nextnum(n, p)
 若p的長度 = n (此例為3)時回到上層
 接下來先拿到[0] call nextnum 獲得 [0,0] 再call nextnum 獲得[0,0,0] (三層nexnum)

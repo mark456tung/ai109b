@@ -1,3 +1,5 @@
+# 聲明
+   * 此筆記有出現的程式碼皆為參考鐘誠老師
 # Week1
 * 這門課基本上會使用現成的模型(因為算力不夠)
 * 使用python + PyTorch(學術界偏好)
@@ -293,4 +295,35 @@ type complex
 * [決策樹(Decision Tree)](https://zh.wikipedia.org/wiki/%E5%86%B3%E7%AD%96%E6%A0%91)
 * [隨機森林(Random Forest)](https://zh.wikipedia.org/wiki/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97)
 * [支援向量機 Support Vector Machine (SVM)](https://zh.wikipedia.org/wiki/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA)
+# Week17
+* [中央極限定理](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86)
+   * 中央極限定理是機率論中的一組定理
+   * 在適當的條件下，大量相互獨立隨機變數的均值經適當標準化後依分布收斂於常態分布
+   * 這組定理是數理統計學和誤差分析的理論基礎，指出了大量隨機變數之和近似服從常態分布的條件\
+![PICTURE](https://github.com/mark456tung/ai109b/blob/main/noteraw/CLT.png)
+* 圖片轉自維基
+* googlemt1.py
+   * [使用 googletrans 套件來進行 Google 翻譯](https://clay-atlas.com/blog/2020/05/05/python-cn-note-package-googletrans-google-translate/)
+   * `pip install googletrans`
+* [使用 Gensim 套件將文字轉成向量](https://clay-atlas.com/blog/2020/01/17/python-chinese-tutorial-gensim-word2vec/)
+   * `pip install gensim`
+# Week18
+## 鍾誠老師上課教材
+* [程式人媒體_人工智慧](https://programmermedia.org/root/%E7%A8%8B%E5%BC%8F%E4%BA%BA%E5%AA%92%E9%AB%94/)
+## 台大人工智慧學習連結
+* [台大李宏毅老師的課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
+* [台大林軒田老師的課程](https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/)
+## 李永樂老師的YT教學
+* [機器能像人一樣思考嗎？人工智能（一）機器學習和神經網絡](https://www.youtube.com/watch?v=5A9bmW1qTpk)
+* [人工智能是怎么学习的？](https://www.youtube.com/watch?v=FrunoBR37c4)
+## 線上學習資源
+* [莫煩python](https://mofanpy.com/)
+* [Udemy](https://www.udemy.com/)
+* [Coursera](https://www.coursera.org/)
+## 電子書
+* [Deep Learning An MIT Press book](https://www.deeplearningbook.org/)
+* Google : Deep Learning 書 github
+* [《动手学深度学习》](https://github.com/MingchaoZhu/DeepLearning)
+* [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
+
  
